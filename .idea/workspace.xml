@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="GameProject:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fad270e1-087a-44a1-9651-6370afbb31f0" name="Default Changelist" comment="finished game">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/unnamed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameProject/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameProject/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameProject/LevelSelectionMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameProject/LevelSelectionMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameProject/META-INF/GameProject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameProject/MainMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameProject/MainMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameProject/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameProject/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameProject/Score.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameProject/Score.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameProject/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameProject/Ship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameProject/Tutorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameProject/Tutorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameProject/resources/bullet.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameProject/resources/bullet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameProject/resources/laser.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameProject/resources/laser.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c5ynEfnboSCH3bjp5Ous7a1riB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Codeforces" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Application.Game">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game" />
+      <module name="GameProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="GameProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fad270e1-087a-44a1-9651-6370afbb31f0" name="Default Changelist" comment="" />
+      <created>1589832913770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589832913770</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Put in Actor and World classes">
+      <created>1589834038361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589834038361</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Game class">
+      <created>1589834630056</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589834630056</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finished days 1 and 2 goals">
+      <created>1590365013833</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590365013833</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Finished days 1 and 2 goals">
+      <created>1590546237133</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590546237133</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added laser and finished tutorial">
+      <created>1590546273055</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590546273055</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added laser image">
+      <created>1590546418046</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590546418046</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Finished day 3 goals">
+      <created>1590647093209</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590647093209</updated>
+    </task>
+    <task id="LOCAL-00008" summary="committed stuff">
+      <created>1590967058283</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590967058283</updated>
+    </task>
+    <task id="LOCAL-00009" summary="almost finished level 2">
+      <created>1590993548647</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590993548647</updated>
+    </task>
+    <task id="LOCAL-00010" summary="finished level 2">
+      <created>1591068654984</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591068654984</updated>
+    </task>
+    <task id="LOCAL-00011" summary="finished game">
+      <created>1591241560069</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1591241560069</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Put in Actor and World classes" />
+    <MESSAGE value="Added Game class" />
+    <MESSAGE value="Finished days 1 and 2 goals" />
+    <MESSAGE value="Added laser and finished tutorial" />
+    <MESSAGE value="Added laser image" />
+    <MESSAGE value="Finished day 3 goals" />
+    <MESSAGE value="committed stuff" />
+    <MESSAGE value="almost finished level 2" />
+    <MESSAGE value="finished level 2" />
+    <MESSAGE value="finished game" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished game" />
+  </component>
+</project>
