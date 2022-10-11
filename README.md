@@ -1,4 +1,3 @@
-**I am still working on my game and I will e-mail you when done!**
 # README #
 
 **Name:**	Nicholas Wang
